@@ -1,4 +1,4 @@
 Mars:
 mars is re
-mars is dry 
-and far
+mars is dry
+is there water on mars?
